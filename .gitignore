@@ -1,0 +1,33 @@
+# Customer Relationship Management (CRM)
+
+This project is a simple and customizable **Customer Relationship Management (CRM)** system built to help businesses manage their interactions with current and potential customers. It includes tools for tracking communications, managing sales pipelines, storing customer data, and improving customer service.
+
+## Features
+
+- Customer database with contact details
+- Sales and lead tracking
+- Interaction and communication history
+- Task and follow-up reminders
+- Reporting and analytics dashboard
+
+## Technologies Used
+
+- [Jekyll](https://jekyllrb.com/) (for static site generation)
+- HTML, CSS, JavaScript
+- Ruby / Bundler (for managing dependencies)
+- GitHub Pages (for deployment)
+
+## Getting Started
+
+### Prerequisites
+
+- Ruby installed
+- Bundler (`gem install bundler`)
+- Jekyll (`gem install jekyll`)
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
